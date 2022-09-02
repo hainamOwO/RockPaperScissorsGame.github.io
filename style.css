@@ -1,0 +1,40 @@
+#parent{
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+
+#container{
+  text-align: center;
+  border: 2px solid;
+  border-radius: 15px;
+  padding-bottom: 15px;
+  width: 50%;
+}
+
+
+
+.GameBtn{
+  padding: 3px 40px;
+  font-family: MV Boli; 
+}
+
+#player{
+  font-family: MV Boli;
+  font-size: 30px;
+  color:blue;
+  font-weight: bold; 
+}
+
+#computer{
+  font-family: MV Boli;
+  font-size: 30px;
+  color:red;
+  font-weight: bold; 
+}
+
+#result{
+  font-family: MV Boli;
+  font-size: 30px;
+  font-weight: bold; 
+}
